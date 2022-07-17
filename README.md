@@ -78,10 +78,6 @@ $ yarn dev
 
 ```
 
-<p align="center">
-  <a href="#" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ---
 
 ## 🛠 Tecnologias
