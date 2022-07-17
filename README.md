@@ -8,10 +8,6 @@
   </a>
     
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
-  </a>
   
  
 </p>
@@ -43,11 +39,11 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## ⚙️ Funcionalidades
 
-- [ ] Cadastrar usuários.
-- [ ] Cadastrar uma pesquisa com título e descrição.
-- [ ] Listar todas as pesquisas realizadas.
-- [ ] Enviar um email com a pesquisa.
-- [ ] Enviar um email de resposta para quem respondeu a pesquisa.
+- [x] Cadastrar usuários.
+- [x] Cadastrar uma pesquisa com título e descrição.
+- [x] Listar todas as pesquisas realizadas.
+- [x] Enviar um email com a pesquisa.
+- [x] Enviar um email de resposta para quem respondeu a pesquisa.
 
 ---
 
@@ -104,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Teste de API: **[Insomnia](https://insomnia.rest/)**
 
@@ -112,7 +108,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="#">
+<a href="https://github.com/mthenrique">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/22751566?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Mateus Oliveira</b></sub></a>
@@ -126,4 +122,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Mateus Oliveira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/mthenrique/)
+Desenvolvido por Mateus Oliveira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/mthenrique/)
