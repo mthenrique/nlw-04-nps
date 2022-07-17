@@ -16,7 +16,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/nlw-04-nps.png" />
 </h1>
 
 <h4 align="center"> 
@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **ts-node**
 - **dotENV**
 
-> Veja o arquivo [package.json](#)
+> Veja o arquivo [package.json](https://github.com/mthenrique/nlw-04-nps/blob/master/package.json)
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
