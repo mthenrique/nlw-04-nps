@@ -17,12 +17,10 @@ export class PrismaSurveyRepository implements ISurveyRepository {
 
   async findAllSurveys(): Promise<Survey[]> {
     const surveys = await prisma.surveys.findMany();
-    console.log('🚀 ~ PrismaSurveyRepository ~ surveys', surveys);
     return surveys;
   }
 
   async findById(surveyId: string): Promise<Survey | undefined> {
-    console.log('🚀 4 ~ PrismaSurveyRepository ~ surveyId', surveyId);
     const survey = await prisma.surveys.findFirst({
       where: {
         // id: surveyId,
@@ -32,7 +30,6 @@ export class PrismaSurveyRepository implements ISurveyRepository {
         },
       },
     });
-    console.log('🚀 5 ~ PrismaSurveyRepository ~ survey', survey);
 
     return survey;
   }
