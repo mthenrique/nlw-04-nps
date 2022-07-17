@@ -78,7 +78,7 @@ $ yarn dev
 
 ```
 
-##### heavy_check_mark Rodando os testes
+##### ✅ Rodando os testes
 
 ```bash
 
