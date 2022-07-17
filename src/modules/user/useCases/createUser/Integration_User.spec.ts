@@ -12,7 +12,7 @@ describe('Users', () => {
       .post('/user')
       .send({
         name: 'user-name',
-        email: 'user-email',
+        email: 'user-email@email.com',
       });
 
     expect(response.status).toBe(201);
@@ -23,7 +23,7 @@ describe('Users', () => {
       .post('/user')
       .send({
         name: 'user-name',
-        email: 'user-email',
+        email: 'user-email@email.com',
       });
 
     expect(response.status).toBe(400);
