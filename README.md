@@ -78,6 +78,16 @@ $ yarn dev
 
 ```
 
+##### heavy_check_mark Rodando os testes
+
+```bash
+
+# Execute os testes
+$ yarn test
+
+
+```
+
 ---
 
 ## 🛠 Tecnologias
@@ -91,6 +101,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **Prisma**
 - **ts-node**
 - **dotENV**
+- **bcrypt**
+- **JWT**
+- **Nodemailer**
+- **Jest**
 
 > Veja o arquivo [package.json](https://github.com/mthenrique/nlw-04-nps/blob/master/package.json)
 
