@@ -16,7 +16,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  NLW - NPS (Concluído) 🚀 🚧
+	🚧  NLW - NPS (Em desenvolvimento) 🚀 🚧
 </h4>
 
 <p align="center">
