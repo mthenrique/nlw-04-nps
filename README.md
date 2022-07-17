@@ -42,6 +42,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Cadastrar usuários.
 - [x] Cadastrar uma pesquisa com título e descrição.
 - [x] Listar todas as pesquisas realizadas.
+- [x] Buscar resultado de uma pesquisa NPS.
 - [x] Enviar um email com a pesquisa.
 - [x] Enviar um email de resposta para quem respondeu a pesquisa.
 
